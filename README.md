@@ -7,4 +7,4 @@ here you will the following recursion operations :
  - greatest common divisor between 2 integers.
  - lowest common multiple between 2 integers.
 
-we did those during the lab session in uni ,and i feell the need to share them for the small chance that they would benefit someone like me ;)
+we did those during the lab session in uni ,and i felt the need to share them for the small chance that they would benefit someone like me ;)
